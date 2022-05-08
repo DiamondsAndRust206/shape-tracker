@@ -9,3 +9,5 @@ $(document).ready(function() {
     $('#response').append("<p>" + response + "</p>");
   });
 });
+
+import Triangle from './triangle.js';
